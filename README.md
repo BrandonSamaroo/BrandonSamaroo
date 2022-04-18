@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **samaroo.bran@gmail.com**
 
-- ⚡ Fun fact **I love game development as well, fitness, and cooking**
+- ⚡ Fun fact **I love game development, fitness, and cooking**
 
 <br>
 <br>
