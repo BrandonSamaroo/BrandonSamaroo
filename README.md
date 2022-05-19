@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
-- 🔭 I'm currently working on **SEI-Immersive with General Assembly**
+- 🔭 I'm currently working on **A Blog App**
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **.NET**
 
-- 👯 I'm looking to collaborate on **React Three Fiber Projects**
+- 👯 I'm looking to collaborate on **Full Stack Applications**
 
 - 🤝 I'm looking for help with **Finding full-time employment!**
 
